@@ -10,11 +10,11 @@ For this project, you'll build a simple Instagram clone using React. There is a 
 
 ### Task 1: Project Setup
 
-- [ ]  Clone the repository to your machine using your terminal
-- [ ]  CD into the project base directory `cd React-Components-Insta-Clone`
-- [ ]  Download project dependencies by running `npm install`
-- [ ]  Start up the app using `npm run dev`
-- [ ]  Push commits: git push origin `main`
+- [x]  Clone the repository to your machine using your terminal
+- [x]  CD into the project base directory `cd React-Components-Insta-Clone`
+- [x]  Download project dependencies by running `npm install`
+- [x]  Start up the app using `npm run dev`
+- [x]  Push commits: git push origin `main`
 
 ### Task 2: MVP
 
@@ -30,4 +30,4 @@ Your project should end up looking like [this](./frontend/design-files/insta-clo
 
 ## Submission Format
 
-- [ ] Submit a link to your repository in Canvas
+- [x] Submit a link to your repository in Canvas
