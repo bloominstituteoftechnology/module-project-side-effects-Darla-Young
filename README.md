@@ -1,4 +1,5 @@
 # React Components Insta Clone
+[link](frontend\design-files\Instagram.png)
 
 ## Component Composition Module Project
 
